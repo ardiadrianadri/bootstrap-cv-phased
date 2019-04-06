@@ -1,0 +1,30 @@
+{
+  "name": "ideas-bootstrap-workshop",
+  "version": "1.0.0",
+  "description": "A project to learn and teach Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardiadrianadri/bootstrap-cv-phased.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "html",
+    "maquetación",
+    "front-end"
+  ],
+  "author": "@abelespana, @garcaplay, @ardiadrianadri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardiadrianadri/bootstrap-cv-phased/issues"
+  },
+  "homepage": "https://github.com/ardiadrianadri/bootstrap-cv-phased#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
