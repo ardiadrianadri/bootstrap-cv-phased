@@ -1,0 +1,31 @@
+## Ramas y guía plantilla para las diapositivas
+- **Step 0** Instalar dependencias: 
+  - Node.js && NPM
+  - `npm install`
+- **Step 1**: Hello world HTML
+	- Marcado básico del HTML (qué es un `div,`, que es un `h1`, que es un `section`, etc. Etiquetas `Head` y `body`
+- **Step 2**: CDN de Bootstrap (CSS y JS) [Ambos]
+	- Como enlazar Boostrap (CSS y JS)
+		- Link a la CDN
+		- Descargar los archivos y enlazarlos desde local
+	-  Como funciona Boostrap:
+		- ¡Mirad, han cambiando los estilos!
+		- Estilos predefinidos para etiquetas HTML
+		- Clases específicas para interacciones varias (lectores de pantalla, JavaScript, accesibilidad, etc.). 
+- **Step 3**: Navbar [Silvia]
+	- Estilos para la barra de navegación (`nav`, `nav-item`, `nav-link`…) y interacción JS. 
+- **Step 4**: Jumbotron inicial [Abel]
+	- Introducción a bootstrap grid (`container` y `container-fluid`).
+  - Jumbotron
+- **Step 5**: Proyectos [Abel]
+	- Grid más avanzado (`row` y `column`)
+	- `Cards`
+- **Step 6**: Educación y experiencia [Hecho]
+	- ¡Tiempo para hacerlo por ti mismo!
+- **Step 7**: Listas 
+	- Funcionamiento de las listas
+- **Step 8**: Formulario [Silvia]
+- **Step 9**: Carrusel [Silvia]
+	- Funcionamiento, claves del carrusel
+- **Step 10**: Footer [Abel]
+	- Idea: remaquetar con las clases `flex` de Bootstrap. 
