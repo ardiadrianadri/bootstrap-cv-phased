@@ -240,15 +240,21 @@
       </div>
     </div>
   </div>
-  <div id="contacto">
-    <form>
-      <label for="email-input">Dirección email</label>
-      <input type="email" name="email-input" placeholder="mi-email@ejemplo.com">
-      <label for="subject-input">Asunto</label>
-      <input type="text" name="subject-input" placeholder="Hola!!">
-      <label for="text-email-area">Escribe tu email aquí</label>
-      <textarea name="text-email-area" cols="30" rows="10"></textarea>
-      <button type="submit">Enviar</button>
+  <div id="contacto" class="container">
+    <form class="form">
+      <div class="form-group">
+        <label for="email-input">Dirección email</label>
+        <input type="email" name="email-input" placeholder="mi-email@ejemplo.com" class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="subject-input">Asunto</label>
+        <input type="text" name="subject-input" placeholder="Hola!!" class="form-control">
+      </div>
+      <div class="form-group">
+        <label for="text-email-area">Escribe tu email aquí</label>
+        <textarea name="text-email-area" cols="30" rows="10" class="form-control"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary">Enviar</button>
     </form>
   </div>
   <footer>
