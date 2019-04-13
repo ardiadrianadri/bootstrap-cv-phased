@@ -30,5 +30,5 @@
 - **Step 10**: Footer [Abel]
 	- Idea: remaquetar con las clases `flex` de Bootstrap. 
 - **Step 11**: Customization []
-	- Pisar clases
+	- BEM
 	- Crear tus propias variables de css
